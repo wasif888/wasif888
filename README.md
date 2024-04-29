@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 
 <h1 align="center">Hi 👋, I'm Mustafa Wasif</h1>
 <h3 align="center">I'm a coding enthusiast and third-year Software Engineering student at IUT. Exploring the different sectors of software development</h3>
